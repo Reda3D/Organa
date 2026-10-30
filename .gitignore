@@ -1,0 +1,5 @@
+.demo-src/
+.demo-appdata/
+shots/
+tools/
+*.tmp
