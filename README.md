@@ -11,7 +11,7 @@ Hold `Ctrl`, touch a screen edge, and your applications slide out — organized,
 ![Download](https://img.shields.io/badge/download-36%20MB-10B981?style=flat-square)
 ![License](https://img.shields.io/badge/license-Freeware-F43F5E?style=flat-square)
 
-[**Download ORGANA.exe**](../../releases/latest) · [How it works](#how-it-works) · [Settings](#settings-reference) · [Troubleshooting](#troubleshooting)
+[**Download ORGANA.exe**](https://github.com/Reda3D/Organa/releases/latest) · [How it works](#how-it-works) · [Settings](#settings-reference) · [Troubleshooting](#troubleshooting)
 
 </div>
 
@@ -73,7 +73,7 @@ Right-click a window's empty area to add an app, add a window, restyle the title
 
 ## Quick start
 
-1. **Download** `ORGANA.exe` from the [latest release](../../releases/latest).
+1. **Download** `ORGANA.exe` from the [latest release](https://github.com/Reda3D/Organa/releases/latest).
 2. **Run it.** The panel appears once, then retreats to the notification area.
 3. **Hold `Ctrl`** and move the pointer to the edge of the screen you chose (left by default).
 4. **Click an icon** to launch it. `Esc`, `Tab` or a click outside closes the panel.
