@@ -36,7 +36,7 @@ ORGANA is a **desktop organizer** for Windows. Instead of hunting through the St
 | Desktop icons buried under windows | A panel that floats above everything, on demand |
 | Taskbar buttons too small to read | 26–112 px icons with real labels |
 | Launching tools means 4 clicks | `Ctrl` + edge, then one click |
-| Launchers that eat 300 MB of RAM | ~36 MB on disk, idle CPU at 0 %, no background polling of the file system |
+| Launchers that eat 300 MB of RAM | ~36 MB on disk, no background indexing, no file-system scanning |
 | Tools that need admin rights | Runs as a normal user, no hook, no driver |
 
 ---
